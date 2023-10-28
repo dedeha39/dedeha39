@@ -6,13 +6,6 @@
 
 ### How to reach me:
 
-<p>
-  <a href="https://www.linkedin.com/in/ismail-deha-kose-486572153/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/dedeha39" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
-  
-E-Mail: dehakose@hotmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-IsmailDehaKose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismail-deha-kose-486572153/)](https://www.linkedin.com/in/ismail-deha-kose-486572153/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:dehakose@hotmail.com)](mailto:dehakose@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dedeha39)](https://github.com/dedeha39)
